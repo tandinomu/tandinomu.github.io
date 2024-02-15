@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://tandinomu.github.io"
 
 github:
-  username: tandinomu # change to your github username
+  username: tandinomu
 
 twitter:
   username: twitter_username # change to your twitter username
