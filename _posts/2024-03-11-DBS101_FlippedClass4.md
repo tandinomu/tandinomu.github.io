@@ -31,6 +31,7 @@ syntax:
 
 
 3. Rollup and cube: Both rollup and cube are used for data summarization in SQL queries, rollup generates subtotal rows for hierarchical levels of grouping, while cube generates subtotal rows for all possible combinations of grouping sets.
+
 - Rollup: performs summarization on multiple levels of grouping. It computes multiple levels of subtotal aggregates and is usually applied in conjunction with the GROUP BY clause. Rollup produces a result set that includes not only the individual rows but also aggregated subtotal rows.
 - Cube: Cube computes all possible combinations of groupings specified in the query, generating subtotal rows for each combination. It provides a more comprehensive summary of data compared to rollup. Like rollup, cube is also used with the GROUP BY clause, but it generates subtotal rows for all possible combinations of grouping sets, resulting in a more extensive result set.
 
