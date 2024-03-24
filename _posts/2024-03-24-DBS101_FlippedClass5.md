@@ -20,12 +20,16 @@ These are the normal forms we discussed in the class:
 
 Here is an **example** I found in Google:
 
-This is an unnormalized table:
+This is unnormalized table:
+
 ![unnormalized](/assets/img/un.png)
+
 - emp_skills column holds multiple comma-separated values, therefore it fails to pass 1NF.
 
 This is how they fixed the table.
+
 ![1nf](/assets/img/1nf.png)
+
 - added multiple rows to add multiple skills so each column have a single value.
 
 2. **Second Normal Form (2NF)**
@@ -33,6 +37,7 @@ This is how they fixed the table.
 2NF requires that the table is in 1NF and that all non-key attributes are fully functional dependent on the primary key and eliminates partial dependencies. 
 
 Example:
+
 ![2nf](/assets/img/2nf.jpg)
 
 - This is table called ‘students’ with the primary_keys (‘IDSTD,IDPROF’) that forms the composite primary key because each combination uniquely identifies a row in the table.
