@@ -50,6 +50,9 @@ In summary, tasks such as disk blocks implementation, RAID configuration, and bu
 
 ##
 ##
+
+### Summary for the Exercise
+
 As for the exercise we outlined the important procedures to be followed when building a relational database from scractch and their importance and listed data structures to be used.
 
 To summarize, **while building a relational database from scracth**, several important procedures must be followed to ensure its successful development and functionality. 
