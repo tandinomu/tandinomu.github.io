@@ -48,8 +48,7 @@ The code we used in the guided session ensures that frequently accessed pages ar
 
 In summary, tasks such as disk blocks implementation, RAID configuration, and buffer pools management are integral parts of storage and buffer management, contributing to the optimization of database system performance and reliability.
 
-##
-##
+---
 
 ### Summary for the Exercise
 
