@@ -13,7 +13,7 @@ A transaction is a single logical unit of work that accesses and possibly modifi
 
  To ensure the reliability and consistency of transactions, the ACID properties are followed. 
 
- ### ACID 
+### ACID 
 
  Atomicity, Consistency, Isolation, and Durability
 
@@ -25,7 +25,7 @@ A transaction is a single logical unit of work that accesses and possibly modifi
 
 - Durability guarantees that once a transaction is committed, its changes are permanent and will survive any subsequent system failures. The transaction’s changes are saved to the database permanently, and even if the system crashes, the changes remain intact and can be recovered.
 
-![ACID](/assets/img/ACID.jpeg)
+![ACID](/assets/img/Acid2.png)
 
 ### A Simple Transaction Model
 
