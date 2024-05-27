@@ -9,8 +9,7 @@ tags: [DBS101]
 
 ### Two-Phase Locking (2PL):
 
-Two-phase locking is a concurrency control mechanism used in database systems to ensure serializability of transactions.
-It consists of two phases: the **growing phase** and the **shrinking phase**.
+Two-phase locking is a concurrency control mechanism used in database systems to ensure serializability of transactions.It consists of two phases: the **growing phase** and the **shrinking phase**.
 
 In the **growing phase**, a transaction can acquire locks on data items but cannot release any locks.
 
