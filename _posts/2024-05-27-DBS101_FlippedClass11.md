@@ -41,28 +41,28 @@ changes to the database.
 
 **Example**
 
-![nm](/assets/img/Screenshot%20from%202024-05-27%2014-36-45.png)
+![ss8](/assets/img/Screenshot%20from%202024-05-27%2014-36-45.png)
 
 **SHARE Mode**: Allows read and schema modification
 operations but not data modification operations within
 the same transaction.
 
-![g](/assets/img/Screenshot%20from%202024-05-27%2014-39-32.png)
+![ss10](/assets/img/Screenshot%20from%202024-05-27%2014-39-32.png)
 
 - **EXCLUSIVE Mode**: Allows full access (read, write,
 delete) to the table, blocking all other transactions.
 
-![nmk](/assets/img/Screenshot%20from%202024-05-27%2014-40-59.png)
+![ss11](/assets/img/Screenshot%20from%202024-05-27%2014-40-59.png)
 
 - **FOR UPDATE**: Acquires an exclusive lock on the selected
 rows, allowing modifications on those rows.
 
-![mkhj](/assets/img/Screenshot%20from%202024-05-27%2014-41-47.png)
+![ss12](/assets/img/Screenshot%20from%202024-05-27%2014-41-47.png)
 
 - **FOR SHARE**: Acquires a shared lock on the selected rows,
 preventing other transactions from acquiring exclusive locks but allows updates within the same transaction.
 
-![mjkh](/assets/img/Screenshot%20from%202024-05-27%2014-42-14.png)
+![ss13](/assets/img/Screenshot%20from%202024-05-27%2014-42-14.png)
 
 ### Locks vs. Latches:
 
@@ -73,4 +73,4 @@ Latches, on the other hand, are lightweight synchronization primitives used to p
 Locks typically have higher overhead compared to latches because they involve more complex mechanisms for managing concurrency and resolving conflicts.
 Locks are usually associated with transactions and are managed by the database management system, while latches are often used internally by the database system to protect its own data structures and are managed by the system itself.
 
-![llm](//assets/img/LocksVsLatches.png)
+![ss14](//assets/img/LocksVsLatches.png)
