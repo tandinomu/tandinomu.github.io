@@ -41,7 +41,7 @@ changes to the database.
 
 **Example**
 
-![ss8](/assets/img/Screenshot%20from%202024-05-27%2014-36-45.png)
+![ss17](/assets/img/Screenshot%20from%202024-05-27%2014-36-45.png)
 
 **SHARE Mode**: Allows read and schema modification
 operations but not data modification operations within
