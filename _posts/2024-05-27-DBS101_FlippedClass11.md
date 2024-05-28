@@ -73,4 +73,4 @@ Latches, on the other hand, are lightweight synchronization primitives used to p
 Locks typically have higher overhead compared to latches because they involve more complex mechanisms for managing concurrency and resolving conflicts.
 Locks are usually associated with transactions and are managed by the database management system, while latches are often used internally by the database system to protect its own data structures and are managed by the system itself.
 
-![ss14](//assets/img/LocksVsLatches.png)
+![ss14](/assets/img/LocksVsLatches.png)
