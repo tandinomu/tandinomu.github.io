@@ -16,7 +16,7 @@ timezone: Thimphu/Asia
 
 title: Tandin Om # the main title
 
-tagline: Journals # it will display as the sub-title
+tagline: Journal for Flipped Classes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
