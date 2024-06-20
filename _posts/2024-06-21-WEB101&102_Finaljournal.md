@@ -1,6 +1,6 @@
 ---
-Title: Web101&Web102 Final_Journal 
-categories: [WEB, Final_Journal]
+Title: WEB Journal 
+categories: [WEB, Final Journal]
 tags: [WEB]
 ---
 
