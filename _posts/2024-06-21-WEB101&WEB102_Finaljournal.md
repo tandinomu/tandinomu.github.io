@@ -1,7 +1,7 @@
 ---
-Title: WEB101&WEB102 Final_Journal 
-categories: [WEB101&WEB102, Final_Journal]
-tags: [WEB101&WEB102]
+Title: Web101&Web102 Final_Journal 
+categories: [WEB, Final_Journal]
+tags: [WEB]
 ---
 
 ## Topic : Tellonym Clone Project 
