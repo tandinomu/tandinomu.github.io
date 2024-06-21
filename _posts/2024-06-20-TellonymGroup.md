@@ -55,7 +55,7 @@ This report provides a overview of our journey in developing a clone of Tellonym
      - Used `.tsx` files and Shadcn UI for components.
 
    - **Backend**:
-     - Managed MongoDB schema design and API endpoints.
+     - Managed sql design and API endpoints.
 
 3. **Namgyel Wangchuk: Public Profiles**
 
@@ -63,7 +63,7 @@ This report provides a overview of our journey in developing a clone of Tellonym
      - Designed using `.tsx` files, Shadcn UI, and Tailwind CSS.
 
    - **Backend**:
-     - Handled MongoDB schema design and API development.
+     - Handled sql design and API development.
 
 4. **Rangjung Yeshi Norbu and Kanisha Pradhan: Chatbox Feature**
 
@@ -79,7 +79,7 @@ This report provides a overview of our journey in developing a clone of Tellonym
      - Developed UI using `.tsx` files and Shadcn UI.
 
    - **Backend**:
-     - Integrated MongoDB and implemented API functionalities.
+     - Integrated sql and implemented API functionalities.
 
 6. **Yonten Kinley Tenzin: Follower and Following Pages**
 
@@ -87,7 +87,7 @@ This report provides a overview of our journey in developing a clone of Tellonym
      - Managed with `.tsx` files, Shadcn UI, and React Icons.
 
    - **Backend**:
-     - Oversaw CRUD operations, MongoDB management for user relationships, and API implementation.
+     - Oversaw CRUD operations, sql management for user relationships, and API implementation.
 
 
 7. **Collaboration**: Used GitHub for version control and collaboration, ensuring everyone could work on different parts of the project simultaneously. Together we designed the database schemas.
